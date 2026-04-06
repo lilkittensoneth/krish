@@ -1,0 +1,5 @@
+sample-project/
+│── README.md
+│── main.py
+│── requirements.txt
+│── .gitignore
